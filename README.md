@@ -1,2 +1,3 @@
 # PySpark
-This repository contains my PySpark learning journey, covering core concepts like DataFrames, transformations, Spark SQL, and basic ETL examples with hands-on practice.
+
+This repository documents my PySpark learning journey on Databricks. It covers core concepts such as DataFrames, transformations and actions, Spark SQL, and basic ETL workflows, with hands-on examples and practical exercises.
